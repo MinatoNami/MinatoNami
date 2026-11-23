@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:2c9ab7&height=140&section=header&text=Lionel%20Chong&fontSize=44&fontColor=ffffff&fontAlignY=45" />
-  <img alt="Lionel Chong" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9ab7&height=140&section=header&text=Lionel%20Chong&fontSize=44&fontColor=ffffff&fontAlignY=45" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img alt="Lionel Chong" width="100%" src="./assets/header-light.svg" />
 </picture>
 
 **Full-stack engineer for robot fleets — Open-RMF · ROS 2 · real-time Django/FastAPI backends · self-hosted AI**
