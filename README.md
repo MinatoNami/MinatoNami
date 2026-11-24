@@ -7,6 +7,7 @@
 
 **Full-stack engineer for robot fleets — Open-RMF · ROS 2 · real-time Django/FastAPI backends · self-hosted AI**
 
+<a href="https://minatonami.github.io/"><img src="https://img.shields.io/badge/Portfolio-minatonami.github.io-1b6f85?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: minatonami.github.io" /></a>
 <a href="https://www.linkedin.com/in/lionel-chong"><img src="https://img.shields.io/badge/LinkedIn-lionel--chong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: lionel-chong" /></a>
 <a href="mailto:minato.nami.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1b6f85?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Singapore-1b6f85?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Singapore" />
